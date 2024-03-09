@@ -1,1 +1,1 @@
-# Guessing_Game
+A simple number guessing game using js
